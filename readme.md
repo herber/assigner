@@ -1,6 +1,6 @@
-# assigner [![Build Status](https://travis-ci.org/herber/assigner.svg?branch=master)](https://travis-ci.org/herber/assigner) [![codecov](https://codecov.io/gh/herber/assigner/branch/master/graph/badge.svg)](https://codecov.io/gh/herber/assigner)
+# Assigner [![Build Status](https://travis-ci.org/herber/assigner.svg?branch=master)](https://travis-ci.org/herber/assigner) [![codecov](https://codecov.io/gh/herber/assigner/branch/master/graph/badge.svg)](https://codecov.io/gh/herber/assigner)
 
-> Assign objects
+> ✨🎇 Assign objects
 
 ## Install
 
